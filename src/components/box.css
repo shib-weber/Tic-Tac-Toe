@@ -1,0 +1,19 @@
+.Box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30%;
+    width: 30%;
+    background-color: rgb(33, 211, 122);
+    color:black;
+    margin: 0.5% ;
+    font-size: 100px;
+}
+.clicked{
+    background-color: blue;
+    color: white;
+}
+.Mclicked{
+    background-color: red;
+    color: white;
+}

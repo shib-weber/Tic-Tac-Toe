@@ -108,7 +108,7 @@ function Bigboard() {
         }
     }
     function rel(){
-        window.location.href='/'
+        window.location.reload()
     }
 
     return (
